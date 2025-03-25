@@ -1,4 +1,4 @@
-### I'm just a Platform Engineer with a focus on DevSecMLOps & Software Engineering. 
+### I'm just a Cloud Security Engineer with a focus on DevSecMLOps & Software Engineering. 
 ### Committed to efficiency and innovation in every sector.  👋
 #
 
