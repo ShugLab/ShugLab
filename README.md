@@ -4,7 +4,7 @@
 
 Fun Facts
 
-- I've worked for companies like GoDaddy, StateFarm, and HCLTech
+- I've worked for companies like GoDaddy, StateFarm, HCLTech, and the US Federal Government
 
 - Over 10 years in Fortune 50 companies providing value from a Technical stand-point
 
